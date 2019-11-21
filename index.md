@@ -1,16 +1,10 @@
-############################################################
-Welcome to the Home of the CMake Packaging Project (CMakePP)
-############################################################
+# Welcome to the Home of the CMake Packaging Project (CMakePP)
 
-****************
-What is CMakePP?
-****************
+## What is CMakePP?
 
 Here I'll give you the 10 second elevator pitch once I've come up with it.
 
-*******************
-CMakePP Subprojects
-*******************
+## CMakePP Subprojects
 
 The CMakePP organization maintains several subprojects.
 
