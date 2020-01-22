@@ -3,6 +3,8 @@ simplify building and packaging complex C++ projects using CMake. To do this the
 CMakePP organization has built up a series of projects that together form a
 CMake development ecosystem.
 
+![Organization Components](organization.png)
+
 ## CMakePackagingProject
 
 - [GitHub](https://github.com/CMakePP/CMakePackagingProject)
@@ -24,14 +26,14 @@ endeavors. CMakePPCore implements the CMakePP language.
 ## CMakeTest
 
 - [GitHub](https://github.com/CMakePP/CMakeTest)
-- TODO: Add documentation link when hosted
+- [Documentation](https://cmaketest.readthedocs.io/en/latest/)
 
 A unit-testing framework for code written using CMake/CMakePP languages
 
 ## CMakeDoc
 
 - [GitHub](https://github.com/CMakePP/CMakeDoc)
-- [Documentation](https://cmakedoc.readthedocs.io/en/latest/?badge=latest)
+- [Documentation](https://cmakedoc.readthedocs.io/en/latest/)
 
 A tool, a la Doxygen, for generating reStructuredText documentation for APIs of
 CMake/CMakePP functions
@@ -39,7 +41,7 @@ CMake/CMakePP functions
 ## CMakeDev
 
 - [GitHub](https://github.com/CMakePP/CMakeDev)
-- [Documentation](https://cmakedev.readthedocs.io/en/latest/?badge=latest)
+- [Documentation](https://cmakedev.readthedocs.io/en/latest/)
 
 Developers manual for the CMakePP project. A useful community resource for
 others wanting to write their own CMake modules.
