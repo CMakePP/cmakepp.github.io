@@ -8,7 +8,7 @@ CMake development ecosystem.
 ## CMakePackagingProject
 
 - [GitHub](https://github.com/CMakePP/CMakePackagingProject)
-- TODO add documentation link
+- [Documentation](https://cmakepackagingproject.readthedocs.io/en/latest/)
 
 The top-level user API for writing a build system using CMakePP. If you are
 interested in building a project that uses CMakePP or if you want to use CMakePP
@@ -17,7 +17,7 @@ as your build system this is the project to consider.
 ## CMakePPCore
 
 - [GitHub](https://github.com/CMakePP/CMakePPCore)
-- TODO: Add documentation link when hosted
+- [Documentation](https://cmakeppcore.readthedocs.io/en/latest/)
 
 Maybe you don't care for the CMakePP user-APIs or you want to design your own.
 We highly recommend using the object-oriented CMakePP language for such
